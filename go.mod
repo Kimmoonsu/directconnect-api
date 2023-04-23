@@ -30,4 +30,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/aws/aws-sdk-go => github.com/Kimmoonsu/aws-sdk-go v0.0.0-20230421182740-f9284e344902
+replace github.com/aws/aws-sdk-go => github.com/Kimmoonsu/aws-sdk-go v0.0.0-20230422102549-fbc0b9151e7c
